@@ -33,9 +33,8 @@ My Tech Stacks
 
 ### Reach me on
 - <a href="https://linkedin.com/in/Faisholstore/">LinkedIn</a>
-- <a href="https://dmds.dev">dmds.dev</a>
-- dimas@dicoding.com
-- <a href="https://twitter/dim
+- <a href="https://github.com/FaisholStore">github</a>
+-<a href ="https://www.linkedin.com/in/faishol-wijanarko-4338131a0/">linkedin</a>
 </h3>
 </div>
 
