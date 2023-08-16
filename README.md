@@ -1,3 +1,6 @@
+<h1 align="center">
+🌐 MUHAMMAD FAISHOL WIJANARKO</h1>
+
 <h3 align="center">
 🌐 Frontend Developer | 🌱 Building Web Experiences | 💬 Connect with me on <a href="https://twitter.com/Faisholstore">Twitter</a>
 </h3>
@@ -32,9 +35,8 @@ My Tech Stacks
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/Faisholstore/">LinkedIn</a>
 - <a href="https://github.com/FaisholStore">github</a>
--<a href ="https://www.linkedin.com/in/faishol-wijanarko-4338131a0/">linkedin</a>
+- <a href ="https://www.linkedin.com/in/faishol-wijanarko-4338131a0/">linkedin</a>
 </h3>
 </div>
 
